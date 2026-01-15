@@ -1,3 +1,5 @@
+Author: Farah Mohamed Elemam > Role:Biochemist & Bioinformatics Researcher
+
 Molecular Docking of XKW Ligand with 8F9Z Protein
 
 Objective
@@ -45,7 +47,3 @@ Key Findings
 
 
 
-
-2. Mode 4 shows close structural similarity (RMSD 1.835 Å) with good affinity (−7.518 kcal/mol).
-3. All modes demonstrate strong binding (< −6.9 kcal/mol), with the top 5 modes exceeding −7.5 kcal/mol.
-4. The optimized grid size focused the search space, yielding structurally consistent results.
