@@ -38,7 +38,8 @@ Key Findings
 4. The optimized grid size focused the search space, yielding structurally consistent results
 
 
-
+connect with Me
+LinkedIn: https://www.linkedin.com/in/farah-elemam-107969323
 
 
 
